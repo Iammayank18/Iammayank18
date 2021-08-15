@@ -18,9 +18,6 @@ Here are some ideas to get you started:
  <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A passionate Full stack Web developer from India,and a college student ( Computer science )</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iammayank18&label=Profile%20views&color=0e75b6&style=flat" alt="iammayank18" /> </p>
-
-
 ![Visitor Count](https://profile-counter.glitch.me/Iammayank18/count.svg)
 
 - 🌱 I’m currently learning **React, Redux**
