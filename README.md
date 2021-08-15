@@ -19,8 +19,9 @@
 <h3 align="center">A passionate Full stack Web developer from India,and a college student ( Computer science )</h3>
 
 
-<h3 align="left">🤝Visitors count: ![Visitor Count](https://profile-counter.glitch.me/Iammayank18/count.svg)
-</h3>
+<h3 align="left">🤝Visitors count:</h3> 
+ ![Visitor Count](https://profile-counter.glitch.me/Iammayank18/count.svg)
+
 
 
 
