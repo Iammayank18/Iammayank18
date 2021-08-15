@@ -1,6 +1,9 @@
 
 <p align=”center”>
-<img width=”200" height=”200" src=”https://github.com/Iammayank18/Iammayank18/blob/main/M.mp4" alt=”my banner”>
+<img width=”200" height=”200" src=”https://github.com/Iammayank18/Iammayank18/blob/main/M.png" alt=”my banner”>
+ <video width="320" height="240" controls>
+  <source src="https://github.com/Iammayank18/Iammayank18/blob/main/M.mp4" type="video/mp4">
+ </video>
 </p>
 
 
