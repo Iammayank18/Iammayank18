@@ -5,7 +5,12 @@
 <!--  ![MAYANK](https://user-images.githubusercontent.com/64189897/129489941-ae3d6807-4f3b-4ae9-b9a3-8a201eb59375.png)
  -->
  
- ![Untitled design (3)](https://user-images.githubusercontent.com/64189897/129490131-6b7b71b1-d7c4-4726-9f59-8b096c84a1a8.png)
+<!--  ![Untitled design (3)](https://user-images.githubusercontent.com/64189897/129490131-6b7b71b1-d7c4-4726-9f59-8b096c84a1a8.png)
+ -->
+ 
+ 
+ ![Mayank (1)](https://user-images.githubusercontent.com/64189897/129490313-399fcb92-dbb7-4460-be0f-74d3391f36c0.png)
+![Mayank](https://user-images.githubusercontent.com/64189897/129490317-31a5f6bf-6384-45b3-8971-b5d938b0e33c.png)
 
  <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A passionate Full stack Web developer from India,and a college student ( Computer science )</h3>
