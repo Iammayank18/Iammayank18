@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+![Visitor Count](https://profile-counter.glitch.me/Piyush-TheDeveloper/count.svg)
+
 - 🌱 I’m currently learning **React, Redux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Iammayank18](https://github.com/Iammayank18)
