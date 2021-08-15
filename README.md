@@ -20,7 +20,8 @@
 
 
 <h3 align="left">🤝Visitors count:</h3>
-![Visitor Count](https://profile-counter.glitch.me/Iammayank18/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/Piyush-TheDeveloper/count.svg)
 
 - 🌱 I’m currently learning **React, Redux**
 
