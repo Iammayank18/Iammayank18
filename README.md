@@ -9,7 +9,7 @@
  -->
  
  
- ![Mayank (1)](https://user-images.githubusercontent.com/64189897/129490313-399fcb92-dbb7-4460-be0f-74d3391f36c0.png)
+<!--  ![Mayank (1)](https://user-images.githubusercontent.com/64189897/129490313-399fcb92-dbb7-4460-be0f-74d3391f36c0.png) -->
 ![Mayank](https://user-images.githubusercontent.com/64189897/129490317-31a5f6bf-6384-45b3-8971-b5d938b0e33c.png)
 
  <h1 align="center">Hi 👋, I'm Mayank</h1>
