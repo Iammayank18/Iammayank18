@@ -1,6 +1,9 @@
 <p align=”center”>
 <img width=”200" height=”200" src=”https://user-images.githubusercontent.com/64189897/129489348-427ae59c-8314-4aba-81c2-9b295096625b.png" alt=”my banner”>
 </p>
+                                                                                                                                         
+  ![M](https://user-images.githubusercontent.com/64189897/129489348-427ae59c-8314-4aba-81c2-9b295096625b.png)
+                                                                                                                                       
 
 
  <h1 align="center">Hi 👋, I'm Mayank</h1>
