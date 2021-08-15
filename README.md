@@ -26,7 +26,7 @@ New to Full Stack Web Developer
 I'm learning a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB,Mysql).
 
 
-![Visitor Count](https://profile-counter.glitch.me/Piyush-TheDeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Iammayank18/count.svg)
 
 Languages and Tools:
 
