@@ -1,10 +1,5 @@
-
 <p align=”center”>
 <img width=”200" height=”200" src=”https://user-images.githubusercontent.com/64189897/129489348-427ae59c-8314-4aba-81c2-9b295096625b.png" alt=”my banner”>
- <video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/64189897/129489344-676c4584-384e-4cd2-b69e-ff9a10a0c4e5.mp4
-" type="video/mp4">
- </video>
 </p>
 
 
