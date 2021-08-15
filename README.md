@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-Mayank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-thakur-a76026159/)](https://www.linkedin.com/in/piyushkumar28/)
 [![facebook Badge](https://img.shields.io/badge/Facebook-Mayank-blue)](https://www.facebook.com/profile.php?id=100008610407378)
 
-I'm
-New to Full Stack Web Developer
-I'm learning a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), database(MongoDB,Mysql).
+This is Mayank !
+I am a ful stack web developer and learner
 
 
 ![Visitor Count](https://profile-counter.glitch.me/Iammayank18/count.svg)
