@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammayank18&label=Profile%20views&color=0e75b6&style=flat" alt="iammayank18" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-![Visitor Count](https://profile-counter.glitch.me/Piyush-TheDeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Iammayank18/count.svg)
 
 - 🌱 I’m currently learning **React, Redux**
 
