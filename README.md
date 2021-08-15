@@ -1,9 +1,9 @@
-<!--                                                                                                                                          
+                                                                                                                                         
   ![M](https://user-images.githubusercontent.com/64189897/129489348-427ae59c-8314-4aba-81c2-9b295096625b.png)
                                                                                                                                        
- -->
- ![MAYANK](https://user-images.githubusercontent.com/64189897/129489941-ae3d6807-4f3b-4ae9-b9a3-8a201eb59375.png)
 
+<!--  ![MAYANK](https://user-images.githubusercontent.com/64189897/129489941-ae3d6807-4f3b-4ae9-b9a3-8a201eb59375.png)
+ -->
 
  <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A passionate Full stack Web developer from India,and a college student ( Computer science )</h3>
