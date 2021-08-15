@@ -18,8 +18,8 @@ Here are some ideas to get you started:
  
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Piyush-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-thakur-a76026159/)](https://www.linkedin.com/in/piyushkumar28/)
-[![facebook Badge](https://img.shields.io/badge/StackOverflow-Piyush-yellow)](https://www.facebook.com/profile.php?id=100008610407378)
+[![Linkedin Badge](https://img.shields.io/badge/-Mayank-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-thakur-a76026159/)](https://www.linkedin.com/in/piyushkumar28/)
+[![facebook Badge](https://img.shields.io/badge/Facebook-Mayank-blue)](https://www.facebook.com/profile.php?id=100008610407378)
 
 I'm
 New to Full Stack Web Developer
