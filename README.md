@@ -12,8 +12,7 @@
 <!-- ![Mayank](https://user-images.githubusercontent.com/64189897/129490317-31a5f6bf-6384-45b3-8971-b5d938b0e33c.png)
  -->
  
- ![Mayank (2)](https://user-images.githubusercontent.com/64189897/129490483-b74cf55c-47b2-4c13-8b76-104c7585f2c8.png)
-
+ <!--[Mayank (2)](https://user-images.githubusercontent.com/64189897/129490483-b74cf55c-47b2-4c13-8b76-104c7585f2c8.png)-->
  
  <h1 align="center">Hi 👋, I'm Mayank</h1>
 <h3 align="center">A passionate Full stack Web developer from India,and a college student ( Computer science )</h3>
