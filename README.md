@@ -24,8 +24,7 @@
 <a href="https://linkedin.com/in/iammayank18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://github.com/Iammayank18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" /></a>
 <a href="https://codepen.io/iammayank18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a>
-<a href="https://instagram.com/@mayank_.20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mayank_sanyank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/Iammayank18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">⚒️ Tech Stack</h3>
@@ -62,7 +61,3 @@ Performance Optimization • Code Splitting • Lazy Loading • CI/CD • Servi
 * Digital Signature Platform for 1,000+ brokers
 * Real-time Job Tracking System with WebSocket architecture
 * eKYC & E-IPO Platforms for large-scale identity verification and stock workflows
-
-<h3 align="left">📊 GitHub Stats</h3>
-
-![Visitor Count](https://profile-counter.glitch.me/Iammayank18/count.svg)
