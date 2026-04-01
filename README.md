@@ -31,7 +31,7 @@
 
 - 💬 Ask me about **HTML, CSS, JS, PHP, MYSQL, REACT**
 
-- 📫 How to reach me **mayank.sanyank@gmail.com**
+- 📫 How to reach me **abhinavthakur958@gmail.com**
 
 - ⚡ Fun fact **I code in night**
 
