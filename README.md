@@ -15,7 +15,7 @@
 * 📈 Built and maintained systems handling **1,000+ concurrent users**
 * 💬 Ask me about **React, React Native, TypeScript, JavaScript, Testing, Performance, Node.js**
 * 👨‍💻 Projects available at: [github.com/Iammayank18](https://github.com/Iammayank18)
-* 📫 Reach me at: **[abhinavthakur958@gmail.com](mailto:abhinavthakur958@gmail.com)**
+* 📫 Reach me at: **[heymayank2001@gmail.com](mailto:heymayank2001@gmail.com)**
 * 🌙 Fun fact: I do my best coding late at night
 
 <h3 align="left">🤝 Connect with Me</h3>
