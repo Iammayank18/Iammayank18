@@ -7,7 +7,7 @@
 
 <h3 align="left">👨‍💻 About Me</h3>
 
-* 🚀 Frontend Engineer, experience in building high-performance products
+* 🚀 Software Engineer, experience in building high-performance products
 * 🌱 Currently learning **Advanced React, Data Structures & Algorithms, System Design**
 * 🧠 Exploring **AI integrations with OpenAI, Anthropic, and LLM-powered workflows**
 * ⚡ Improved frontend performance by **40–50%** across multiple production applications
